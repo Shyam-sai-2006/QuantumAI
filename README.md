@@ -1,1 +1,1 @@
-# QuantumgenAI
+# QuantumAI
